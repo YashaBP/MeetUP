@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MeetUP</string>
     <string name="version">0.01</string>
+    <string name="tempParameter">tmp</string>
 </resources>
